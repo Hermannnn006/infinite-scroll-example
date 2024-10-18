@@ -13,7 +13,7 @@ Follow these steps to run the project locally:
 
    ```bash
    cd infinite-scroll-example
-      
+
 3. **Install dependencies**:
 
    ```bash
